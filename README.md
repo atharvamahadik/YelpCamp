@@ -1,5 +1,5 @@
-# YelpCamp
-YelpCamp is a campground review web application.
+# CampQuest
+CampQuest is a campground review web application.
 Browse through campgrounds
 View details about each campground (location, description, images)
 Create a user account (authentication system)
